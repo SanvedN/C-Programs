@@ -1,0 +1,1 @@
+this is for opening the file with file IO by C : fileio.c
